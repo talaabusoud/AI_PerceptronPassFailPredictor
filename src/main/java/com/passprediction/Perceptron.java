@@ -7,10 +7,6 @@ package com.passprediction;
 
 import java.util.Random;
 
-/**
- *
- * @author RayaThawabe
- */
 public class Perceptron {
     double[] inputWeights;
     double output;

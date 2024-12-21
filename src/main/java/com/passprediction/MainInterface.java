@@ -19,29 +19,16 @@ import java.util.Random;
 import java.util.Arrays;
 
 
-
-
-
-
-/**
- *
- * @author RayaThawabe
- */
 public class MainInterface extends javax.swing.JFrame {
 
     private static Perceptron perceptron;
     private static List<Row> trainSet;
     private static List<Row> testSet;
-    
-    
-    
-    
-    
+
     public MainInterface() {
         initComponents();
         initializeData();
     }
-
     
           private static void initializeData() {
         int numberOfSubjects = 3;
@@ -58,13 +45,6 @@ public class MainInterface extends javax.swing.JFrame {
         trainSet = sets.get(0);
         testSet = sets.get(1);
     }
-    
-    
-    
-    
-    
-    
-    
     
     
     /**
@@ -364,9 +344,6 @@ public class MainInterface extends javax.swing.JFrame {
         
         return lists;
     }
-    
-    
-    
      
     public static void PopulateData(ArrayList<Row> array, int size, int numberOfSubjects) {
         Random random = new Random();
@@ -410,22 +387,6 @@ public class MainInterface extends javax.swing.JFrame {
             array.add(row);
         }
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     /**
      * @param args the command line arguments

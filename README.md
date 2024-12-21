@@ -20,7 +20,7 @@ The application consists of the following components:
 
 Below is the interface of the Pass/Fail Prediction application:
 
-![App Interface](assets/screenshot.png)  <!-- Adjust the path based on where you placed the image -->
+![App Interface](screenshot.jpg)  
 
 
 

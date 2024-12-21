@@ -19,12 +19,23 @@ import java.util.Random;
 import java.util.Arrays;
 
 
+
+
+
+
+/**
+ *
+ * @author RayaThawabe
+ */
 public class MainInterface extends javax.swing.JFrame {
 
     private static Perceptron perceptron;
     private static List<Row> trainSet;
     private static List<Row> testSet;
-
+    
+    
+    
+    
     
     public MainInterface() {
         initComponents();
@@ -48,7 +59,14 @@ public class MainInterface extends javax.swing.JFrame {
         testSet = sets.get(1);
     }
     
-
+    
+    
+    
+    
+    
+    
+    
+    
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -393,7 +411,22 @@ public class MainInterface extends javax.swing.JFrame {
         }
     }
     
-  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     /**
      * @param args the command line arguments
      */

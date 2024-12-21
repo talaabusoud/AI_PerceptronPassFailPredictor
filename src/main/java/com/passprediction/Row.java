@@ -4,6 +4,10 @@
  */
 package com.passprediction;
 
+/**
+ *
+ * @author RayaThawabe
+ */
 public class Row {
 
     public float[] marks;

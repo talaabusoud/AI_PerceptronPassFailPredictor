@@ -16,4 +16,11 @@ The application consists of the following components:
 - Predict pass/fail status based on the trained model.
 - The system includes GUI components for user interaction.
 
+## Screenshots
+
+Below is the interface of the Pass/Fail Prediction application:
+
+![App Interface](assets/screenshot.png)  <!-- Adjust the path based on where you placed the image -->
+
+
 

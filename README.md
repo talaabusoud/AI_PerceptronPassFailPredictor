@@ -23,4 +23,7 @@ Below is the interface of the Pass/Fail Prediction application:
 ![App Interface](screenshot.jpg)  
 
 
+## Authors
+- **Tala Abu Soud** - [GitHub Profile](https://github.com/talaabusoud)
+- **Raya Thawabe** - [GitHub Profile](https://github.com/rayathawabe)
 
